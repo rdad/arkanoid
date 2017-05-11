@@ -3,7 +3,7 @@
 
 C’est un casse-brique futuriste où le joueur doit détruire toutes les briques pour passer au niveau suivant. Des combos spectaculaires pimentent la progression.
 
-![wireframe](https://ibb.co/hrdamQ "wireframe 1")
+![wireframe](https://thumb.ibb.co/hrdamQ/arkanoid_screenshot.jpg "wireframe 1")
 
 ## REGLES
 
@@ -23,13 +23,11 @@ Le _board_ des meilleurs scores est enregistrés sur un serveur web standard, av
 
 #### Niveau 1
 
-xxxxxxxxxx
-xxxxxxxxxx
-xxxxxxxxxx
+Briques 10 x 3 au centre
+Combo : 2 balles
 
 #### Niveau 2
 
-xxxx  xxxx
-xxxx  xxxx
-xxxx  xxxx
+Briques : 2 carrés de 5 x 3
+Combo : 2 raquettes
 
