@@ -16,8 +16,8 @@ C’est un casse-brique futuriste où le joueur doit détruire toutes les brique
 
 ## TECHNOLOGIES
 
-Jeux développé en Javascript, avec Phaser comme moteur principal.
-Le _board_ des meilleurs scores est enregistrés sur un serveur web standard, avec PHP et une base de données mySQL
+Jeux développé en *Javascript*, avec *Phaser* comme moteur principal.
+Le _board_ des meilleurs scores est enregistrés sur un serveur web standard, avec *PHP* et une base de données *mySQL*
 
 ## DATAS
 
